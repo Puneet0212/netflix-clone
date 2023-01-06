@@ -68,7 +68,7 @@ const Login = () => {
 
                         const loggedInResponse = await response.json();
                         if(loggedInResponse) {
-                            console.log({ loggedInResponse });
+                            // console.log({ loggedInResponse });
                             //route to dashboard
                             router.push("/");
                         }
