@@ -1,0 +1,850 @@
+{
+  
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zfSeEv-QMPDvfDCtse-F6Hj0O_k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bKh2G73gCCs"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-21T12:47:16Z",
+        "channelId": "UC_976xMxPgzIa290Hqtk-9g",
+        "title": "Strange World | Official Trailer",
+        "description": "Explore the adventures beyond our world in the NEW TRAILER for Disney's #StrangeWorld, in theaters November 23! The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bKh2G73gCCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bKh2G73gCCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bKh2G73gCCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Animation Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-21T12:47:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XEcX0z6gpuP1xyhTvFLmihVzwXw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0-wPm99PF9U"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T23:42:33Z",
+        "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+        "title": "The Little Mermaid - Official Teaser Trailer",
+        "description": "Out of the sea, wish I could be... part of that world. Disney's The Little Mermaid is coming to theaters May 26, 2023. “The Little ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0-wPm99PF9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0-wPm99PF9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0-wPm99PF9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T23:42:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eUTxr7stfR0yKfD-L_k6Q1UoHAs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DY63dfyn7HQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-01T15:00:14Z",
+        "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+        "title": "Disenchanted | Official Trailer | Disney+",
+        "description": "Discover a fairy tale with a wicked twist. Disenchanted, an Original movie, starts streaming November 18 on Disney+. The digital ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DY63dfyn7HQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DY63dfyn7HQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DY63dfyn7HQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-01T15:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2t5cXSDCFDW2MDOlrECa4HEvxvI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qiAkYN0t4NE"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T23:23:24Z",
+        "channelId": "UCi8e0iOVk1fEOogdfu4YgfA",
+        "title": "Disenchanted Trailer #1 (2022)",
+        "description": "Check out the official Disenchanted Trailer starring Amy Adams & Patrick Dempsey! ▻ Visit Fandango: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qiAkYN0t4NE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qiAkYN0t4NE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qiAkYN0t4NE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rotten Tomatoes Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T23:23:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0f_q_C9e53wsSqt-z8wHrFPc8bE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5lR0pkUjzb4"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-06T14:00:02Z",
+        "channelId": "UC_976xMxPgzIa290Hqtk-9g",
+        "title": "Strange World | Teaser Trailer | Walt Disney Animation Studios",
+        "description": "Travel past space and time to a place of infinite mystery. Watch the new trailer for Disney's #StrangeWorld and see the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5lR0pkUjzb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5lR0pkUjzb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5lR0pkUjzb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Animation Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-06T14:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h_HFhdgd10aKGkaLrwr977UmJIk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oL9gbI4Iis8"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-17T15:00:09Z",
+        "channelId": "UCq6uf3CoBHzEMXDThDwWfBA",
+        "title": "THE BEST UPCOMING DISNEY MOVIES (2022 - 2025) - NEW TRAILERS",
+        "description": "Here is the SLUURP TV List of the Top Upcoming Disney Movies that are coming to movie theatres, television and streaming ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oL9gbI4Iis8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oL9gbI4Iis8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oL9gbI4Iis8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SLUURP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-17T15:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hp2X0rsDrMuKV394ulpEjINTTmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yBqu0HWHpts"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-23T14:59:21Z",
+        "channelId": "UCBH4HCPqGYZ0Yr6peYP0yag",
+        "title": "Strange World - Un Mondo Misterioso | Trailer Ufficiale",
+        "description": "Vivi straordinarie avventure ed esplora un mondo oltre il nostro nel nuovo trailer di #StrangeWorld - Un Mondo Misterioso, dal 23 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yBqu0HWHpts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yBqu0HWHpts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yBqu0HWHpts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney IT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-23T14:59:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CDG_-GXGjfouQ7UOGBXvMd_hZv4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pHZdnopVgTI"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T23:49:42Z",
+        "channelId": "UCi8e0iOVk1fEOogdfu4YgfA",
+        "title": "The Little Mermaid Teaser Trailer (2023)",
+        "description": "Check out the official The Little Mermaid Teaser Trailer starring Halle Bailey! ▻ Sign up for a Fandango FanAlert for The Little ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pHZdnopVgTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pHZdnopVgTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pHZdnopVgTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rotten Tomatoes Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T23:49:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cXwOHJUAsvGqLyu7B4d8gCuyLMw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jS_Sw7E8xYI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-01T18:01:48Z",
+        "channelId": "UCunkR_ekffRWZppVa1E6tIA",
+        "title": "Desencantada | Trailer Oficial 2 Dublado | Disney",
+        "description": "Descubra um conto de fadas com uma reviravolta perversa. ✨ #Desencantada, um Filme Original, em 18 de novembro no ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jS_Sw7E8xYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jS_Sw7E8xYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jS_Sw7E8xYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-01T18:01:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oqe5ZyvC0d3VKxdy79L1xVqHpAA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6rAeDtxh4BQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T23:56:27Z",
+        "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+        "title": "Disenchanted Official Trailer",
+        "description": "Amy Adams and Patrick Dempsey return for this follow-up to 'Enchanted,' streaming Nov. 24 on Disney+. Exclusives from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6rAeDtxh4BQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6rAeDtxh4BQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6rAeDtxh4BQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Entertainment Tonight",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T23:56:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RoGO2et-U1cea2Cdtu7qCOgS2Lg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P70Uuh1RcMQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-06T14:18:57Z",
+        "channelId": "UCi8e0iOVk1fEOogdfu4YgfA",
+        "title": "Strange World Teaser Trailer (2022) | Movieclips Trailers",
+        "description": "Check out the official Strange World Trailer starring Alan Tudyk! ▻ Sign up for a Fandango FanAlert for Strange World: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P70Uuh1RcMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P70Uuh1RcMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P70Uuh1RcMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rotten Tomatoes Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-06T14:18:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ogp_2nWIPLZLpnufxKA1JPIZ9Lg",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ"
+      },
+      "snippet": {
+        "publishedAt": "2008-11-18T20:34:44Z",
+        "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+        "title": "Walt Disney Studios",
+        "description": "Watch all of the latest trailers, clips, and videos from upcoming Disney movies! At The Walt Disney Company, we are committed to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu8JM8HhZfUpKCIRerivS4LBJhTeYqsTgBf4WV100w=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu8JM8HhZfUpKCIRerivS4LBJhTeYqsTgBf4WV100w=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu8JM8HhZfUpKCIRerivS4LBJhTeYqsTgBf4WV100w=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Walt Disney Studios",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2008-11-18T20:34:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PiMC22SXhWWJrk6pM_caCfsvWpc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eEgM2PCNUvA"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-21T13:16:56Z",
+        "channelId": "UCP6nJ-Elnfnpjv6HQRsv1Cw",
+        "title": "Mundo Estranho | Trailer Oficial Dublado",
+        "description": "Explore as aventuras para além do mundo que você conhece com o novo trailer de #MundoEstranho da Disney. Em 24 de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eEgM2PCNUvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eEgM2PCNUvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eEgM2PCNUvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-21T13:16:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g6f1Q1szVYkLjmMYihZzSOznb9Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vY6nYS0W7WE"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-10T00:48:35Z",
+        "channelId": "UCP6nJ-Elnfnpjv6HQRsv1Cw",
+        "title": "A Pequena Sereia | Trailer Oficial Dublado",
+        "description": "Quero viver, não quero ser mais desse mar... #APequenaSereia, em 25 de maio nos cinemas.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vY6nYS0W7WE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vY6nYS0W7WE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vY6nYS0W7WE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-10T00:48:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fNUqfs6NWcKXPFqs7oJkfhOioKY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_AHMUyDNdIc"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-01T15:37:39Z",
+        "channelId": "UCP6nJ-Elnfnpjv6HQRsv1Cw",
+        "title": "Desencantada | Trailer Oficial 2 Dublado | Disney+",
+        "description": "Descubra um conto de fadas com uma reviravolta perversa. #Desencantada, um Filme Original, em 18 de novembro no ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_AHMUyDNdIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_AHMUyDNdIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_AHMUyDNdIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-01T15:37:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e2oDjBgMC676mxwdxYq5ibFeHas",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aWVS9OZ3Q8o"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-10T00:09:17Z",
+        "channelId": "UCP6nJ-Elnfnpjv6HQRsv1Cw",
+        "title": "Desencantada | Trailer Oficial Dublado | Disney+",
+        "description": "Nada fica encantado para sempre. #Desencantada, um Filme Original. Em 24 de novembro no #DisneyPlus. #D23Expo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aWVS9OZ3Q8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aWVS9OZ3Q8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aWVS9OZ3Q8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-10T00:09:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oIHh2cJLrCDltvDnJB66XM6BYag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qZVTkn2NjS0"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-10T18:55:51Z",
+        "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+        "title": "Marvel Studios’ Secret Invasion | Official Trailer | Disney+",
+        "description": "\"I'm the last person standing between them and what they really want.\" Marvel Studios' Secret Invasion, an Original series, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qZVTkn2NjS0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qZVTkn2NjS0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qZVTkn2NjS0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Marvel Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-10T18:55:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nTpOvF98WPN-4R9ck75tV53lHXU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Of1wKwGVPo"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-27T16:03:37Z",
+        "channelId": "UCIrgJInjLS2BhlHOMDW7v0g",
+        "title": "The Santa Clauses | Official Trailer | Disney+",
+        "description": "Scott Calvin is back! After being Santa Claus for nearly thirty years, he's as jolly as ever. But as Christmas declines in popularity, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Of1wKwGVPo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Of1wKwGVPo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Of1wKwGVPo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney Plus",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-27T16:03:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lq5ENZ-VlEObrQ-0HP0f2Wf8FO0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LvIMiuYG6KQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-21T13:45:18Z",
+        "channelId": "UCq3zaHCaZtb3TtNwwz0PK2w",
+        "title": "Un Mundo Extraño | Tráiler Oficial | Doblado en español",
+        "description": "Prepara tu equipaje, estás a punto de embarcarte en un viaje extraordinario #UnMundoExtraño, 24 de noviembre solo en ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LvIMiuYG6KQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LvIMiuYG6KQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LvIMiuYG6KQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney Latinoamérica",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-21T13:45:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VJe8q7oPs7pAEvz-cxGIryIZVpY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j4fyrqoZddY"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-10T00:39:29Z",
+        "channelId": "UCP6nJ-Elnfnpjv6HQRsv1Cw",
+        "title": "A Pequena Sereia | Trailer Oficial Legendado",
+        "description": "Quero viver, não quero ser mais desse mar... #APequenaSereia, em 25 de maio nos cinemas.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j4fyrqoZddY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j4fyrqoZddY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j4fyrqoZddY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-10T00:39:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C8T2U7aKsoFNEseR2GWNNJBZbuM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9Ge_MJS7Z3I"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-01T15:23:25Z",
+        "channelId": "UCzauGwJ4mP1ZR7oZxBSa8eA",
+        "title": "Official Trailer | Disenchanted | Disney+",
+        "description": "Discover a fairy tale with a wicked twist. Disenchanted, an Original movie, starts streaming November 18 on #DisneyPlus.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Ge_MJS7Z3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Ge_MJS7Z3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Ge_MJS7Z3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios Canada",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-01T15:23:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ylLFmMETqKKs80SoKDsH4bdHrDc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dRuwjZJ-DQw"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T23:03:41Z",
+        "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+        "title": "Disenchanted | Official Trailer | Disney+",
+        "description": "The magical teaser trailer for the all-new live-action musical comedy “Disenchanted,” which premiered at the D23 Expo 2022 in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dRuwjZJ-DQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dRuwjZJ-DQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dRuwjZJ-DQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T23:03:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ig8CiVWo_eEwLjwnCtsRhXR4GlM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sQcdkDYlyHE"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-21T09:00:51Z",
+        "channelId": "UCvv3SF2SzAAOAkvs_r7vEvA",
+        "title": "ENCANTO – Offizieller Trailer (deutsch/german) | Disney HD",
+        "description": "Finde diesen November deine Magie. ✨   Schau dir hier den ersten Trailer zu ENCANTO an, jetzt nur im Kino! Abonniert ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sQcdkDYlyHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sQcdkDYlyHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sQcdkDYlyHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney Deutschland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-21T09:00:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eDD3S6RRiVME3Ks0pEvOlf6nayI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n_A65ugHwk8"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T23:27:55Z",
+        "channelId": "UCP6nJ-Elnfnpjv6HQRsv1Cw",
+        "title": "Abracadabra 2 | Trailer Oficial Dublado | Disney+",
+        "description": "Abrindo a temporada de halloween, as Irmãs Sanderson vão voar uma vez mais. #Abracadabra2, um Filme Original, em 30 de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n_A65ugHwk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n_A65ugHwk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_A65ugHwk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T23:27:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R5-yM85N2FlDIZd3UaaAvAAGvBQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "da7BYWyvwO8"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-10T17:34:30Z",
+        "channelId": "UCnwY6fAhE3ePu0F2nMP-DLg",
+        "title": "Willow | Official Trailer | Disney+",
+        "description": "This November, the magic returns✨ Watch the new trailer for #Willow, an epic new Original series streaming only on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/da7BYWyvwO8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/da7BYWyvwO8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/da7BYWyvwO8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lucasfilm",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-10T17:34:30Z"
+      }
+    }
+  ]
+}
+

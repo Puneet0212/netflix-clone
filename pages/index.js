@@ -1,8 +1,53 @@
 import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import styles from '../styles/Home.module.css';
 
-export default function Home() {
+import Banner from  '../components/banner/banner';
+import Navbar from  '../components/nav/navbar';
+import SectionCards from  '../components/card/section-cards';
+
+import { getVideos, getPopularVideos, getWatchItAgainVideos } from '../lib/videos';
+
+import useRedirectuser from '../utils/redirectUser';
+
+
+//Here you are using Server Side Rendering
+export async function getServerSideProps(context) {
+
+  const { userId,  token } = await useRedirectuser(context);
+
+  if (!userId) {
+    return {
+    props: {},
+    redirect: {
+        destination: '/login',
+        permanent: false,
+    },
+    }
+}
+
+
+  const watchItAgainVideos = await getWatchItAgainVideos(userId, token);
+  // console.log({ watchItAgainVideos });
+
+  let disneyVideos = await getVideos("disney trailer");
+  disneyVideos = JSON.parse(JSON.stringify(disneyVideos));
+
+  let productivityVideos = await getVideos("Productivity");
+  productivityVideos = JSON.parse(JSON.stringify(productivityVideos));
+
+  let travelVideos = await getVideos("travel");
+  travelVideos = JSON.parse(JSON.stringify(travelVideos));
+
+  let popularVideos = await getPopularVideos();
+  popularVideos = JSON.parse(JSON.stringify(popularVideos));
+
+  return { props: { disneyVideos, productivityVideos, travelVideos, popularVideos, watchItAgainVideos } };
+}
+
+export default function Home({disneyVideos, productivityVideos, travelVideos, popularVideos, watchItAgainVideos}) {
+
+  // startFetchMyQuery();
+  
   return (
     <div className={styles.container}>
       <Head>
@@ -11,61 +56,49 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+      <div className={styles.main}>
+        <Navbar/>
 
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
+        <Banner
+          videoId="4zH5iYM4wJo"
+          title="Clifford the Red Dog"
+          subTitle="A very cute dog"
+          imgUrl="/static/clifford.png"
+          />
 
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
+        <div className={styles.sectionWrapper}>
+          <SectionCards
+            title="Disney" 
+            videos={disneyVideos}
+            size="large"
+          />
+          
+          <SectionCards
+            title="Watch it again" 
+            videos={watchItAgainVideos}
+            size="small"
+          />
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
-            className={styles.card}
-          >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-            className={styles.card}
-          >
-            <h2>Deploy &rarr;</h2>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
+          <SectionCards
+            title="Travel" 
+            videos={travelVideos}
+            size="small"
+          />
+          <SectionCards
+            title="Productivity" 
+            videos={productivityVideos}
+            size="medium"
+          />
+          <SectionCards
+            title="Popular" 
+            videos={popularVideos}
+            size="small"
+          />
         </div>
-      </main>
+      </div>
+      
+      
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-        </a>
-      </footer>
     </div>
   )
 }
